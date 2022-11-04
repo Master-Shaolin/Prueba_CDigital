@@ -1,0 +1,1 @@
+export const categoryFilters = [ "Men's Clothing","Women's Clothing","Jewelery"];
